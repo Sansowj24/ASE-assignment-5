@@ -1,0 +1,7 @@
+#Wed Feb 22 23:17:23 CST 2017
+base.0=C\:\\Users\\SNEHA DIDIGAM\\Desktop\\cameramap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_775d07e5233f130692064f03c2605f7942f509fd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\SNEHA DIDIGAM\\Desktop\\cameramap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb5cddea7058ce27d04b9e45e21c80834e8533b4\\classes.dex
+base.1=C\:\\Users\\SNEHA DIDIGAM\\Desktop\\cameramap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb5cddea7058ce27d04b9e45e21c80834e8533b4
+file.0=C\:\\Users\\SNEHA DIDIGAM\\Desktop\\cameramap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_775d07e5233f130692064f03c2605f7942f509fd\\classes.dex
